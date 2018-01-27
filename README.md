@@ -1,3 +1,3 @@
-link to site: https://paunovicpredrag.github.io/futurism-site/
+link to site - https://paunovicpredrag.github.io/futurism-site/
 
 # futurism-site
